@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="PhIVR" version="1.0">
+    <phrase version="1.0">
+        <displayname>Transferencia</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Transferencia.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Finalizar</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Finalizar.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>BuenosDiasMenu</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>BuenosDiasMenuPrincipal.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>BuenasTardesMenu</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>BuenasTardesMenuPrincipal.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>BuenasNochesMenu</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>BuenasNochesMenuPrincipal.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MenuDos</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MenuDos.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>OpcionValida</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>OpcionValida.wav</audiofile>
+    </phrase>
+</phraseset>
